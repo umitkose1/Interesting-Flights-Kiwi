@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kiwi Assignment</string>
+    <string name="no_data_available">No flights available\nPlease select an appropriate date</string>
+    <string name="select_a_date">Select a date</string>
+</resources>
